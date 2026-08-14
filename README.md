@@ -7,4 +7,4 @@ Live Demo: Live Demo: [Travel Website](https://andrwgallegos.github.io/TravelWeb
 
 
 Project 3: Online Grocery Website
-Live Demo: [Online Grocery Wbsite](https://itis3300-technicalpioneers.onrender.com/)
+Live Demo: [Online Grocery Website](https://itis3300-technicalpioneers.onrender.com/)
